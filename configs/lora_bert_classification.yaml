@@ -1,0 +1,1 @@
+base_model: bert-base-uncased\ntask: text-classification\nlora_r: 8\nlora_alpha: 16\nlora_dropout: 0.1\nnum_labels: 5\nmax_seq_length: 512\nnum_train_epochs: 5\nper_device_train_batch_size: 16\nlearning_rate: 3e-4\noutput_dir: outputs/bert-classifier\nmlflow_experiment: bert-lora-v1
