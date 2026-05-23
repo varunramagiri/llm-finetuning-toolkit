@@ -1,0 +1,1 @@
+torch>=2.2.0\ntransformers>=4.40.0\npeft>=0.10.0\nbitsandbytes>=0.43.0\ndatasets>=2.19.0\nmlflow>=2.12.0\naccelerate>=0.29.0\nevaluate>=0.4.0\nnumpy>=1.26.0\npandas>=2.2.0\nscikit-learn>=1.4.0\nrougescore>=0.1.0\nsacrebleu>=2.4.0\nvllm>=0.4.0
